@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,ruby&theme=dark)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,ruby,java)](https://skillicons.dev)
 <!--
 **stylescode/stylescode** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
