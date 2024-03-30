@@ -5,7 +5,7 @@
     <img src="https://skillicons.dev/icons?i=js,html,css" />
   </a>
 </p>
-[![My Skills](https://skillicons.dev/icons?i=js,html,css)](https://skillicons.dev)
+
 [![My Skills](https://skillicons.dev/icons?i=express,git,jest,jquery,linux,mysql,mongodb,nodejs,npm,postman,react,ubuntu)](https://skillicons.dev)
 <!--
 **stylescode/stylescode** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
