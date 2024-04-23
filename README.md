@@ -1,4 +1,10 @@
-### Hi there 👋
+### Hi there 👋 I'm Styles 🌐
+
+I am a full-stack software engineer committed to crafting user-friendly and innovative applications through meticulous problem solving and creative thinking. 
+
+Languages & Tools
+---
+
 
 <p align="center">
   <a href="https://skillicons.dev">
