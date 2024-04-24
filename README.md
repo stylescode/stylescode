@@ -2,6 +2,14 @@
 
 I am a full-stack software engineer committed to crafting user-friendly and innovative applications through meticulous problem solving and creative thinking. 
 
+🔗 Connect w/ Me
+---
+
+<a href="https://www.linkedin.com/in/styles-kim/">
+  <img src="https://img.shields.io/badge/linkedin-blue?style=for-the-badge&logo=linkedin"
+  />
+</a>
+
 💻 Languages & Tools
 ---
 
