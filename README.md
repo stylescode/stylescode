@@ -13,7 +13,7 @@ Languages & Tools
 </p>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=express,git,jest,jquery,linux,mongodb,mysql,nodejs,npm,postgres,postman,react,ubuntu" />
+    <img src="https://skillicons.dev/icons?i=express,git,jest,jquery,linux,mongodb,mysql,nodejs,npm,postgres,postman,react,ubuntu,tailwind" />
   </a>
 </p>
 
