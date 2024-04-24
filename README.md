@@ -2,7 +2,7 @@
 
 I am a full-stack software engineer committed to crafting user-friendly and innovative applications through meticulous problem solving and creative thinking. 
 
-Languages & Tools
+💻 Languages & Tools
 ---
 
 
