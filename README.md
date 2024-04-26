@@ -1,6 +1,6 @@
 ### Hi there 👋 I'm Styles 🌐
 
-I am a full-stack software engineer committed to crafting user-friendly and innovative applications through meticulous problem solving and creative thinking. 
+Welcome to my page. I am a full-stack software engineer based in SoCal, committed to crafting user-friendly & innovative apps through meticulous problem solving and creative thinking. I thrive on the endless well of knowledge this world provides with a strong dedication toward continuous learning.
 
 🔗 Connect w/ Me
 ---
