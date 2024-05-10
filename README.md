@@ -21,7 +21,7 @@ Welcome to my page. I am a full-stack software engineer based in SoCal, committe
 </p>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=express,git,jest,jquery,linux,mongodb,mysql,nextjs,nginx,nodejs,npm,postgres,postman,react,tailwind,ubuntu,vite" />
+    <img src="https://skillicons.dev/icons?i=express,git,jest,jquery,linux,mongodb,mysql,nextjs,nginx,nodejs,npm,postgres,postman,prisma,react,tailwind,ubuntu,vite" />
   </a>
 </p>
 
