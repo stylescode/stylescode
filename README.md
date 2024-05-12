@@ -21,9 +21,15 @@ Welcome to my page. I am a full-stack software engineer based in SoCal, committe
 </p>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=express,git,jest,jquery,linux,mongodb,mysql,nextjs,nginx,nodejs,npm,postgres,postman,prisma,react,tailwind,ubuntu,vite" />
+    <img src="https://skillicons.dev/icons?i=express,git,jest,jquery,linux,mongodb,mysql,nextjs,nginx,nodejs,npm,postgres,postman,prisma,react" />
   </a>
 </p>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=tailwind,ubuntu,vite" />
+  </a>
+</p>
+
 
 <!--
 **stylescode/stylescode** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
