@@ -26,7 +26,7 @@ Welcome to my page. I am a full-stack software engineer based in SoCal, committe
 </p>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=tailwind,ubuntu,vite" />
+    <img src="https://skillicons.dev/icons?i=supabase,tailwind,ubuntu,vite" />
   </a>
 </p>
 
