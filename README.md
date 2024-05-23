@@ -16,7 +16,7 @@ Welcome to my page. I am a full-stack software engineer based in SoCal, committe
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,ts,html,css" />
+    <img src="https://skillicons.dev/icons?i=js,ts,ruby,html,css" />
   </a>
 </p>
 <p align="center">
